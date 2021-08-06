@@ -1,0 +1,66 @@
+/* The whole web page styling */
+body{
+    margin: 0;
+    padding: 0;
+    background-color:aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*The login page section*/
+.login{
+    width: 300px;
+    overflow: hidden;
+    margin: auto;
+    padding: 100px;
+    background:wheat;
+    border-radius: 30px;
+    display: block;
+
+}
+/*The heading on the page*/
+h1{
+    text-align: center;
+    color: brown;
+    padding: 10px;
+}
+/*The text abobe the text boxes*/
+label{
+    color:rgba(41, 43, 184, 0.993);
+    font-size: 18px;
+}
+
+/*The text box for username*/
+#Uname{
+    width: 200px;
+    height: 30px;
+    border: 3px;
+    border-radius: 5px;
+    padding-left: 15px;
+    display: block;
+}
+
+/*The text box for password*/
+#Pass{
+    width: 200px;
+    height: 30px;
+    border: 3px;
+    border-radius: 5px;
+    padding-left: 15px;
+    display: block;
+}
+
+/* Login button */
+#log{
+    width: 100px;
+    height: 30px;
+    border: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+    display: block;
+}
+
+/* Remeber me text*/
+span{
+    color: blue;
+    font-size: 20px;
+}
