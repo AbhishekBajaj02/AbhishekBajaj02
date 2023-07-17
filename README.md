@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhishekBajaj02
-- 👀 I’m interested in Programming and Networking
-- 🌱 I’m currently learning Bachelor of IT 
+- 👀 I’m interested in Cloud Computing and Networking
+- 🌱 I’m currently studying Bachelor of IT 
 - 💞️ I’m looking to collaborate on coding projects.
 - 📫 How to reach me? You can contact me through my E-mail-: bajajabhi300802@gmail.com
 
